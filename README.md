@@ -3,7 +3,7 @@ Implementation of PanNet by Chainer. Landsat 8 images are used in this repositor
 
 |Original RGB (resolution: 30m)|Pansharpened by PanNet (resolution: 15m)|
 |---|---|
-|![overview](imgs/gdal_merged_rgb.png)|![overview](imgs/pansharpened_by_pannet.png)|  
+|![overview](imgs/gdal_merged_original.png)|![overview](imgs/pansharpened_by_pannet.png)|  
 
 Original RGB image is created by gdal_merge. Both images are screenshots of QGIS on my laptop.
 
